@@ -1,0 +1,12 @@
+*{
+    background-color: #2d737a;
+    color: black;
+}
+input{
+    border-color: black;
+    border-style: solid;
+}
+select{
+    border-color: black;
+}
+
